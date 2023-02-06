@@ -1,0 +1,9 @@
+body {
+}
+button:first-of-type {
+  margin: 25% 2% 0 40%;
+}
+button {
+  width: 100px;
+  height: 40px;
+}

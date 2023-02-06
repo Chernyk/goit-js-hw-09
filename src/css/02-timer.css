@@ -1,0 +1,25 @@
+.timer {
+  display: flex;
+  width: 300px;
+  /* display: grid;
+  grid-template-columns: repeat(4, 70px);
+  grid-gap: 2px; */
+}
+.field {
+  display: block;
+  margin: 10px;
+  padding: 0;
+  box-sizing: border-box;
+  width: 22%;
+  text-align: center;
+}
+.value {
+  width: 100%;
+  font-size: 50px;
+}
+.label {
+  width: 100%;
+  font-size: 15px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
